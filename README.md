@@ -1,13 +1,8 @@
-[![MasterHead](https://www.freecoursesites.us/wp-content/uploads/2021/05/MERN-Stack-Development-with-React-Redux-Node-2021-2.jpg)]
 
 <h1 align="center">Hi 👋, I'm Giorgi Kalatozi</h1>
 <h3 align="center">A frontend developer from Georgia</h3>
 
 <img align="right" alt="naruto" width="400" src="https://i.pinimg.com/originals/e3/bc/47/e3bc474bc032e2ee3e6a5868ed449c6b.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fallenprodigy&label=Profile%20views&color=0e75b6&style=flat" alt="fallenprodigy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fallenprodigy" alt="fallenprodigy" /></a> </p>
 
 - 🌱 I’m currently learning **Nextjs**
 
