@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **giorgithedragonslayer@gmail.com**
 
-- ⚡ Fun fact **life is not easy at all.**
+- ⚡ Fun fact **Elephants can’t jump.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
