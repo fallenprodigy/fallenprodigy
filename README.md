@@ -4,15 +4,15 @@
 
 <img align="right" alt="naruto" width="400" src="https://i.pinimg.com/originals/e3/bc/47/e3bc474bc032e2ee3e6a5868ed449c6b.gif">
 
-- 🌱 I’m currently learning **What is discipline**
+- 🌱 I’m currently learning **what is discipline**
 
 - 👨‍💻 All of my projects are available at [https://giorgikalatozi.netlify.app/](https://giorgikalatozi.netlify.app/)
 
-- 💬 Ask me about **How to center div**
+- 💬 Ask me about **how to center div**
 
 - 📫 How to reach me **giorgithedragonslayer@gmail.com**
 
-- ⚡ Fun fact **Elephants can’t jump.**
+- ⚡ Fun fact **elephants can’t jump.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
