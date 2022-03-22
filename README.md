@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Giorgi Kalatozi</h1>
-<h3 align="center">A frontend developer from Georgia</h3>
+<!-- <h3 align="center">A frontend developer from Georgia</h3> -->
 
 <img align="right" alt="naruto" width="400" src="https://i.pinimg.com/originals/e3/bc/47/e3bc474bc032e2ee3e6a5868ed449c6b.gif">
 
