@@ -4,7 +4,7 @@
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fallenprodigy&show_icons=true&locale=en&layout=compact" alt="fallenprodigy" /></div>
 
-<!-- <img align="right" alt="naruto" width="400" src="https://i.pinimg.com/originals/e3/bc/47/e3bc474bc032e2ee3e6a5868ed449c6b.gif"> -->
+<img align="right" alt="naruto" width="250" src="https://i.pinimg.com/originals/e3/bc/47/e3bc474bc032e2ee3e6a5868ed449c6b.gif">
 
 <!-- - 🌱 I’m currently learning **what is discipline**
 
